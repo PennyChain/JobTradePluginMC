@@ -1,8 +1,8 @@
-name: JobTrade
+name: JobTradePlugin
+main: me.Liam.JobTradePlugin.JobTradePlugin
 version: 1.0
-main: com.example.jobtrade.JobTradePlugin
-api-version: 1.20
+api-version: 1.21
 commands:
   jobtrade:
-    description: Opens the Job Trade Menu.
+    description: Opens the Job Trade Menu
     usage: /jobtrade

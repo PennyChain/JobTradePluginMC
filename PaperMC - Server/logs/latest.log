@@ -1,0 +1,39 @@
+[17:20:27] [ServerMain/INFO]: [bootstrap] Running Java 22 (Java HotSpot(TM) 64-Bit Server VM 22.0.2+9-70; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[17:20:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-77-master@4ff58c4 (2024-09-12T18:05:09Z) for Minecraft 1.21.1
+[17:20:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:20:28] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[17:20:28] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+ - JobTradePlugin (1.0)
+[17:20:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:20:36] [ServerMain/INFO]: Loaded 1290 recipes
+[17:20:36] [ServerMain/INFO]: Loaded 1399 advancements
+[17:20:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:20:37] [Server thread/INFO]: Loading properties
+[17:20:37] [Server thread/INFO]: This server is running Paper version 1.21.1-77-master@4ff58c4 (2024-09-12T18:05:09Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:20:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:20:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:20:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:20:38] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and population gen parallelism of 4 threads
+[17:20:39] [Server thread/INFO]: Default game type: SURVIVAL
+[17:20:39] [Server thread/INFO]: Generating keypair
+[17:20:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:20:39] [Server thread/INFO]: Using default channel type
+[17:20:39] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[17:20:39] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[17:20:39] [Server thread/INFO]: [JobTradePlugin] Loading server plugin JobTradePlugin v1.0
+[17:20:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:20:39] [Server thread/INFO]: Preparing level "world"
+[17:20:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:20:41] [Server thread/INFO]: Time elapsed: 1185 ms
+[17:20:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:20:41] [Server thread/INFO]: Time elapsed: 64 ms
+[17:20:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:20:41] [Server thread/INFO]: Time elapsed: 78 ms
+[17:20:41] [Server thread/INFO]: [JobTradePlugin] Enabling JobTradePlugin v1.0
+[17:20:41] [Server thread/INFO]: [JobTradePlugin] JobTrade plugin has started!
+[17:20:41] [Server thread/INFO]: [spark] Starting background profiler...
+[17:20:41] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[17:20:41] [Server thread/INFO]: Done preparing level "world" (2.029s)
+[17:20:41] [Server thread/INFO]: Running delayed init tasks
+[17:20:41] [Server thread/INFO]: Done (14.747s)! For help, type "help"
+[17:20:41] [Server thread/INFO]: Timings Reset
